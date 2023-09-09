@@ -1,0 +1,8 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(wh.jpg);
+    border: solid;
+    background-color: bisque;
+    border-width: 10px;
+    border-style:ridge;
+}
